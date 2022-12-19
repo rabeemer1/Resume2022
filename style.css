@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 16px;
+    font-size: 15px;
     max-width: 960px;
     margin: auto;
 }
@@ -21,12 +21,12 @@ h2 {
 
 
 h3 {
-    font-size: 1em;
+    font-size: 1.25em;
     padding-bottom: 1em;
 }
     main { 
         display: grid;
-        grid-template-columns: 40% 60%;
+        grid-template-columns: 45% 55%;
         margin-top: 3em;
     }
     header {
@@ -39,7 +39,7 @@ h3 {
     }
     
     i {
-        margin-right: .5em;
+        margin-right: .2em;
     }
     
     p {
